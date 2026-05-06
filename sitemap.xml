@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://www.ultrafastphysics.org/about/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://www.ultrafastphysics.org/categories/</loc>
   </url><url>
-    <loc>https://example.org/docs/first-page/</loc>
+    <loc>https://www.ultrafastphysics.org/docs/first-page/</loc>
   </url><url>
-    <loc>https://example.org/docs/</loc>
+    <loc>https://www.ultrafastphysics.org/docs/</loc>
   </url><url>
-    <loc>https://example.org/docs/folder/</loc>
+    <loc>https://www.ultrafastphysics.org/docs/folder/</loc>
   </url><url>
-    <loc>https://example.org/docs/folder/leaf/</loc>
+    <loc>https://www.ultrafastphysics.org/docs/folder/leaf/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://www.ultrafastphysics.org/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://www.ultrafastphysics.org/tags/</loc>
   </url>
 </urlset>
